@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/jUXR4dz7Ot/0"))()
+task.spawn(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCoding-Hub/Mystrix/refs/heads/main/VISUAL"))()
+end)
+task.wait(0.2)
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/tzorEjSQqn/0"))()
